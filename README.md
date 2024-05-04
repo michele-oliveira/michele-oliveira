@@ -13,12 +13,13 @@
 
 Conecte-se comigo:
 <div align="center">
-<a target="_blank" href="https://www.linkedin.com/in/michele-oliveira-novais/">
+<a target="_blank" href="https://www.linkedin.com/in/michele-oliveira-novais/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=004182"/>
 </a>
 <a href="mailto:micheleoliveiranovais24@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
+</div>
 <br />
 
 ### Languages and tools:
@@ -29,6 +30,7 @@ Conecte-se comigo:
 <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" title="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Python" title="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
 
 <br />
 
