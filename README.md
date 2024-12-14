@@ -1,11 +1,11 @@
 ## Olá, meu nome é Michele Oliveira 👋
 
-### Sou desenvolvedora de software me formando em pós-graduação de Engenharia de Software, Desenvolvimento Full-Stack e Data Science!
+### Sou desenvolvedora de software formada em Engenharia de Software, Desenvolvimento Full-Stack e Data Science!
 
-- 👩‍🎓  Atualmente estou desenvolvendo projetos front-end.
+- 👩‍🎓 Atualmente estou desenvolvendo projetos front-end.
 - 💻 Atualmente estou aprendendo Node.JS e React e banco de dados.
 - 🛸 Estou procurando melhorar minhas habilidades de desenvolvimento e aprender back-end.
-- 🚀 Metas para 2024: Desenvolver meus conhecimentos em back-end.
+- 🚀 Metas para 2025: Desenvolver meus conhecimentos em back-end.
 - ⚡ Curiosidade: gosto de séries, filmes de space opera, música e leitura.
 - 🌱 Comprometida em aprendizado contínuo e desenvolvimento pessoal na área.
 
