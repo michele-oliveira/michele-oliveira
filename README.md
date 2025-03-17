@@ -1,42 +1,68 @@
-## Olá, meu nome é Michele Oliveira 👋
+## Olá, meu nome é Michele Oliveira! 👋
+### Desenvolvedora Front-end | Aprimorando Back-end
 
-### Sou desenvolvedora de software formada em Engenharia de Software, Desenvolvimento Full-Stack e Data Science!
+Sou apaixonada por tecnologia e desenvolvimento de software. Sempre em busca de aprimoramento, atualmente estou expandindo meus conhecimentos em back-end com Node.js, bancos de dados SQL/NoSQL e Docker.
 
-- 👩‍🎓 Atualmente estou desenvolvendo projetos front-end.
-- 💻 Atualmente estou aprendendo Node.JS e React e banco de dados.
-- 🛸 Estou procurando melhorar minhas habilidades de desenvolvimento e aprender back-end.
-- 🚀 Metas para 2025: Desenvolver meus conhecimentos em back-end.
-- ⚡ Curiosidade: gosto de séries, filmes de space opera, música e leitura.
-- 🌱 Comprometida em aprendizado contínuo e desenvolvimento pessoal na área.
+### 🚀 Sobre mim:
+- 🎓 **Formada em** Engenharia de Software, Desenvolvimento Full-Stack e Data Science.
+- 🛸 **Interesses:** Aprimorar habilidades em back-end e explorar novas tecnologias.
+- 🎯 **Metas para 2025:** Aprofundar meu conhecimento em arquitetura de software e microsserviços.
+- ⚡ **Curiosidade:** Amo space operas, música, filmes e livros.
 
-<br />
+---
 
-Conecte-se comigo:
+## 📬 Conecte-se comigo:
 <div align="center">
-<a target="_blank" href="https://www.linkedin.com/in/michele-oliveira-novais/" target="_blank">
+<a href="https://www.linkedin.com/in/michele-oliveira-novais/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=004182"/>
 </a>
 <a href="mailto:micheleoliveiranovais24@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 </div>
-<br />
 
-## Linguagens e ferramentas:
+---
 
-<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" title="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" title="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" title="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Python" title="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Nodejs" title="Nodejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="React" title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="MongoDB" title="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+## 🛠️ Tecnologias e ferramentas:
+
+### 💻 Front-end
+<div align="start" style="display: flex; gap: 10px;">
+    <img alt="Visual Studio Code" title="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
+    <img alt="HTML5" title="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
+    <img alt="CSS3" title="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
+    <img alt="JavaScript" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+    <img alt="TypeScript" title="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
+    <img alt="React" title="React" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+</div>
+
+### 👨🏻‍💻 Back-end
+<div align="start" style="display: flex; gap: 10px;">
+    <img alt="Node.js" title="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
+    <img alt="MongoDB" title="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
+    <img alt="PostgreSQL" title="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
+    <img alt="Docker" title="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
+</div>
+
+---
+
+## 📊 Minhas estatísticas no GitHub:
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=michele-oliveira&show_icons=true&theme=dracula" />
+</p>
+
+---
+
+## 🚀 Projetos autorais em destaque:
+🔹 [Projeto 1 - Softmax](https://github.com/michele-oliveira/softmax) <br>
+🔹 [Projeto 2 - Livraria Virtual](https://github.com/michele-oliveira/livraria-virtual-frontend) <br>
+🔹 [Projeto 3 - Canil Pelos e Bigodes](https://github.com/michele-oliveira/canil-pelos-e-bigodes-frontend) <br>
+
+📌 *Confira mais projetos no meu perfil!* 🚀
+
+---
+
+⭐ Se gostou do meu perfil, sinta-se à vontade para me seguir e conectar comigo! 😊
 
 
-
-
-
-<br />
 
