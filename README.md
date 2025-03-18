@@ -26,22 +26,35 @@ Sou apaixonada por tecnologia e desenvolvimento de software. Sempre em busca de 
 ## 🛠️ Tecnologias e ferramentas:
 
 ### 💻 Front-end
-<div align="start" style="display: flex; gap: 10px;">
-    <img alt="Visual Studio Code" title="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
-    <img alt="HTML5" title="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
-    <img alt="CSS3" title="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
-    <img alt="JavaScript" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-    <img alt="TypeScript" title="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
-    <img alt="React" title="React" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-</div>
+<p align="start">
+    <img alt="Visual Studio Code" title="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png">
+    <img alt="HTML5" title="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png">
+    <img alt="CSS3" title="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png">
+    <img alt="JavaScript" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
+    <img alt="TypeScript" title="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
+    <img alt="React" title="React" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
+    <img alt="Tailwind CSS" title="Tailwind CSS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
+</p>
 
-### 👨🏻‍💻 Back-end
-<div align="start" style="display: flex; gap: 10px;">
-    <img alt="Node.js" title="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
-    <img alt="MongoDB" title="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
-    <img alt="PostgreSQL" title="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
-    <img alt="Docker" title="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
-</div>
+### ⚙️ Back-end
+<p align="start">
+    <img alt="Node.js" title="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png">
+    <img alt="Docker" title="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">
+</p>
+
+### 🗄️ Banco de Dados
+<p align="start">
+    <img alt="MongoDB" title="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png">
+    <img alt="PostgreSQL" title="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png">
+</p>
+
+### 🖥️ Sistemas Operacionais
+<p align="start">
+    <img alt="Linux" title="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png">
+    <img alt="Windows" title="Windows" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png">
+</p>
+
+
 
 ---
 
