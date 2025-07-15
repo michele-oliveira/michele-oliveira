@@ -1,9 +1,3 @@
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=A259FF&height=100&section=footer" 
-    style="transform: rotate(180deg);"
-  />
-</p>
 
 <h1 align="center">👩‍💻 Michele Oliveira</h1>
 <h3 align="center">Desenvolvedora Front-end | Aprimorando Back-end | Rumo ao Full Stack 🚀</h3>
