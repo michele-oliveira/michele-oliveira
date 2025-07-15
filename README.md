@@ -1,81 +1,105 @@
-## Olá, meu nome é Michele Oliveira! 👋
-### Desenvolvedora Front-end | Aprimorando Back-end
-
-Sou apaixonada por tecnologia e desenvolvimento de software. Sempre em busca de aprimoramento, atualmente estou expandindo meus conhecimentos em back-end com Node.js, bancos de dados SQL/NoSQL e Docker.
-
-### 🚀 Sobre mim:
-- 🎓 **Formada em** Engenharia de Software, Desenvolvimento Full-Stack e Data Science.
-- 🛸 **Interesses:** Aprimorar habilidades em back-end e explorar novas tecnologias.
-- 🎯 **Metas para 2025:** Aprofundar meu conhecimento em arquitetura de software e microsserviços.
-- ⚡ **Curiosidade:** Amo space operas, música, filmes e livros.
+<h1 align="center">👩‍💻 Michele Oliveira</h1>
+<h3 align="center">Desenvolvedora Front-end | Aprimorando Back-end | Rumo ao Full Stack 🚀</h3>
 
 ---
 
-## 📬 Conecte-se comigo:
-<div align="center">
-<a href="https://www.linkedin.com/in/michele-oliveira-novais/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=004182"/>
-</a>
-<a href="mailto:micheleoliveiranovais24@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
+### ✨ Sobre mim
+
+🎓 Formada em **Engenharia de Software**, **Desenvolvimento Full-Stack** e **Pós-graduada em Data Science**  
+🚀 Atualmente **aprimorando** back-end com **Node.js**, **NestJS**, **Docker**, **PostgreSQL**, **MongoDB** e **Clean Architecture**  
+💡 Entrego valor com foco em **experiência do usuário**, **código limpo** e **boas práticas**  
+🎯 Meta atual: me consolidar como **dev full stack** com forte base em arquitetura moderna  
+🎬 Fora do código: viciada em space operas, música, cinema e livros de ficção científica  
+
+---
+
+### 🛠️ Tecnologias que utilizo
+
+#### 💻 Front-end
+<p>
+  <img title="HTML" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"/>
+  <img title="CSS" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"/>
+  <img title="JavaScript" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"/>
+  <img title="TypeScript" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"/>
+  <img title="React" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"/>
+  <img title="Tailwind CSS" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/>
+</p>
+
+#### ⚙️ Back-end e APIs
+<p>
+  <img title="Node.js" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"/>
+  <img title="NestJS" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png"/>
+  <img title="Postman" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
+  <img title="Docker" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"/>
+</p>
+
+#### 🗄️ Banco de Dados
+<p>
+  <img title="PostgreSQL" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"/>
+  <img title="MongoDB" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"/>
+</p>
+
+#### 🖥️ IDEs e Sistemas
+<p>
+  <img title="VS Code" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"/>
+  <img title="Linux" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"/>
+  <img title="Windows" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png"/>
+</p>
+
+---
+
+### 📈 Minhas Estatísticas no GitHub
+
+<div align="center" style="max-width: 900px; padding: 0 16px; margin: 0 auto;">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=michele-oliveira&show_icons=true&theme=tokyonight&title_color=A259FF&icon_color=F8F8F2&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michele-oliveira&layout=compact&theme=tokyonight&title_color=A259FF&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
 </div>
 
 ---
 
-## 🛠️ Tecnologias e ferramentas:
+### 🚀 Projetos em Destaque
 
-### 💻 Front-end
-<p align="start">
-    <img alt="Visual Studio Code" title="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png">
-    <img alt="HTML5" title="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png">
-    <img alt="CSS3" title="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png">
-    <img alt="JavaScript" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
-    <img alt="TypeScript" title="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
-    <img alt="React" title="React" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
-    <img alt="Tailwind CSS" title="Tailwind CSS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
-</p>
+<div>
 
-### ⚙️ Back-end
-<p align="start">
-    <img alt="Node.js" title="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png">
-    <img alt="Docker" title="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">
-</p>
+- 📚 [**Livraria Virtual**](https://github.com/michele-oliveira/livraria-virtual-frontend)  
+  Plataforma de livros com React, Node.js, JWT, PostgreSQL e upload com validações.
 
-### 🗄️ Banco de Dados
-<p align="start">
-    <img alt="MongoDB" title="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png">
-    <img alt="PostgreSQL" title="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png">
-</p>
+- 🐾 [**Canil Pelos e Bigodes**](https://github.com/michele-oliveira/canil-pelos-e-bigodes-frontend)  
+  Sistema de adoção de pets com filtros dinâmicos, responsivo e formulário completo.
 
-### 🖥️ Sistemas Operacionais
-<p align="start">
-    <img alt="Linux" title="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png">
-    <img alt="Windows" title="Windows" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png">
-</p>
+- 🧠 [**Softmax**](https://github.com/michele-oliveira/softmax)  
+  Aplicação de estudos com foco em front-end, componentes reutilizáveis e interatividade.
 
+</div>
 
+📌 *Explore mais projetos no meu perfil!*
 
 ---
 
-## 📊 Minhas estatísticas no GitHub:
+### 📬 Vamos conversar?
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/michele-oliveira-novais/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=004182"/>
+  </a>
+  <a href="mailto:micheleoliveiranovais24@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+### 💼 Vamos trabalhar juntos?
+
+Se você é recrutador(a) ou dev e busca alguém comprometida, estudiosa e pronta para crescer,  
+💜 **me chama!** Estou aberta a estágios, oportunidades júnior ou projetos em equipe.
+
+---
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=michele-oliveira&show_icons=true&theme=dracula" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A259FF&height=100&section=footer"/>
 </p>
 
----
-
-## 🚀 Projetos autorais em destaque:
-🔹 [Projeto 1 - Softmax](https://github.com/michele-oliveira/softmax) <br>
-🔹 [Projeto 2 - Livraria Virtual](https://github.com/michele-oliveira/livraria-virtual-frontend) <br>
-🔹 [Projeto 3 - Canil Pelos e Bigodes](https://github.com/michele-oliveira/canil-pelos-e-bigodes-frontend) <br>
-
-📌 *Confira mais projetos no meu perfil!* 🚀
-
----
-
-⭐ Se gostou do meu perfil, sinta-se à vontade para me seguir e conectar comigo! 😊
 
 
 
