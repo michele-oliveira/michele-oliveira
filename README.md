@@ -12,7 +12,7 @@
 
 ### ✨ Sobre mim
 
-🎓 Formada em **Engenharia de Software**, **Desenvolvimento Full-Stack** e **Pós-graduada em Data Science**  
+🎓Pós-graduada em **Engenharia de Software**, **Desenvolvimento Full-Stack** e ** Data Science**  
 🚀 Atualmente **aprimorando** back-end com **Node.js**, **NestJS**, **Docker**, **PostgreSQL**, **MongoDB** e **Clean Architecture**  
 💡 Entrego valor com foco em **experiência do usuário**, **código limpo** e **boas práticas**  
 🎯 Meta atual: me consolidar como **dev full stack** com forte base em arquitetura moderna  
