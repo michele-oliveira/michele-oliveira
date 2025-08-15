@@ -1,6 +1,10 @@
 
 <h1 align="center">👩‍💻 Michele Oliveira</h1>
 <h3 align="center">Desenvolvedora Front-end | Aprimorando Back-end | Rumo ao Full Stack 🚀</h3>
+<div align="center">
+<a href="https://www.linkedin.com/in/michele-oliveira-novais"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:micheleoliveiranovais24@gmail.com"><img src="https://img.shields.io/badge/-micheleoliveiranovais24@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</div>
 
 ---
 
@@ -79,19 +83,6 @@
 </div>
 
 📌 *Explore mais projetos no meu perfil!*
-
----
-
-### 📬 Vamos conversar?
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/michele-oliveira-novais/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=004182"/>
-  </a>
-  <a href="mailto:micheleoliveiranovais24@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
 
 ---
 
