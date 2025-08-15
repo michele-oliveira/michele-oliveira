@@ -26,7 +26,7 @@
 ---
 
 ### 🛠️ Tecnologias que utilizo
-<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+<p align="center">
   <img title="HTML5" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img title="CSS3" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img title="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -46,7 +46,8 @@
   <img title="C++" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img title="Linux" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img title="Windows" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-</div>
+</p>
+
 
 ---
 
