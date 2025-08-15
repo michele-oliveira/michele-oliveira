@@ -1,5 +1,5 @@
 <h1 align="center">👩‍💻 Michele Oliveira</h1>
-<h3 align="center">Desenvolvedora Front-end | Aprimorando Back-end | Rumo ao Full Stack 🚀</h3>
+<h3 align="center">Desenvolvedora Full Stack </h3>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/michele-oliveira-novais">
