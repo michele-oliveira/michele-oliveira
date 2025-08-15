@@ -1,10 +1,17 @@
-
 <h1 align="center">👩‍💻 Michele Oliveira</h1>
 <h3 align="center">Desenvolvedora Front-end | Aprimorando Back-end | Rumo ao Full Stack 🚀</h3>
+
 <div align="center">
-<a href="https://www.linkedin.com/in/michele-oliveira-novais"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:micheleoliveiranovais24@gmail.com"><img src="https://img.shields.io/badge/-micheleoliveiranovais24@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/michele-oliveira-novais">
+  <img src="https://img.shields.io/badge/-My%20LinkedIn-8A2BE2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:micheleoliveiranovais24@gmail.com">
+  <img src="https://img.shields.io/badge/-micheleoliveiranovais24@gmail.com-9370DB?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
 </div>
+
+
+
 
 ---
 
@@ -71,16 +78,18 @@
 
 <div>
 
-- 📚 [**Livraria Virtual**](https://github.com/michele-oliveira/livraria-virtual-frontend)  
+- [![Livraria Virtual](https://img.shields.io/badge/Livraria%20Virtual-4B0082?style=flat-square&logo=github&logoColor=white)](https://github.com/michele-oliveira/livraria-virtual-frontend)  
   Plataforma de livros com React, Node.js, JWT, PostgreSQL e upload com validações.
 
-- 🐾 [**Canil Pelos e Bigodes**](https://github.com/michele-oliveira/canil-pelos-e-bigodes-frontend)  
+- [![Canil Pelos e Bigodes](https://img.shields.io/badge/Canil%20Pelos%20e%20Bigodes-4B0082?style=flat-square&logo=github&logoColor=white)](https://github.com/michele-oliveira/canil-pelos-e-bigodes-frontend)  
   Sistema de adoção de pets com filtros dinâmicos, responsivo e formulário completo.
 
-- 🧠 [**Softmax**](https://github.com/michele-oliveira/softmax)  
+-  [![Softmax](https://img.shields.io/badge/Softmax-4B0082?style=flat-square&logo=github&logoColor=white)](https://github.com/michele-oliveira/softmax)  
   Aplicação de estudos com foco em front-end, componentes reutilizáveis e interatividade.
 
 </div>
+
+
 
 📌 *Explore mais projetos no meu perfil!*
 
