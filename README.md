@@ -54,8 +54,9 @@
 ### 📈 Minhas Estatísticas no GitHub
 
 <div align="center" style="max-width: 900px; padding: 0 16px; margin: 0 auto;">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=michele-oliveira&show_icons=true&theme=tokyonight&title_color=A259FF&icon_color=F8F8F2&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michele-oliveira&layout=compact&theme=tokyonight&title_color=A259FF&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=michele-oliveira&show_icons=true&theme=tokyonight&title_color=A259FF&icon_color=F8F8F2&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=michele-oliveira&layout=compact&theme=tokyonight&title_color=A259FF&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
+
 </div>
 
 ---
